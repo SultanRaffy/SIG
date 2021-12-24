@@ -1,0 +1,16 @@
+body{
+    background-color:#b0b1ab;
+}
+
+.panel{
+    border-color: #b0b1ab;
+}
+
+.table-striped > tbody > tr:nth-of-type(2n+1){
+    background-color: #b0b1ab;
+}
+
+.panel-default > .panel-heading{
+    background-color: #b0b1ab;
+    padding-bottom: 20px;
+}
